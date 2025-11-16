@@ -182,9 +182,7 @@ reports/
 .DS_Store
 Thumbs.db
 
-# Sample data (optional - remove if you want to include sample data in version control)
-data/sample_*.csv
-data/test_*.csv
+
 
 # Local configuration files
 config.local.yaml
